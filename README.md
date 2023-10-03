@@ -1,2 +1,7 @@
-# empresa-django
-Estudando sobre rotas e como usar o django-admin
+
+# Empresa-Django
+
+Estudo como usar rotas, desenvolvendo tabelas, plotagens e arquivos csv.
+
+
+![Alt text](image.png)
